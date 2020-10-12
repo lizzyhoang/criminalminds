@@ -1,10 +1,8 @@
 ## Welcome Criminal Minds Fans! 
 
-You can use the [editor on GitHub](https://github.com/lizzyhoang/criminalminds/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the best of seasons 1-15 of the CBS show "Criminal Minds". This crime drama TV series is one where a team of FBI profilers from the BAU Analysis Unit solve criminal cases across the country.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Favorite Moment from Season 7 Episode 1 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
