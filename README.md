@@ -1,28 +1,19 @@
 ## Welcome Criminal Minds Fans! 
 
-This is the best of seasons 1-15 of the CBS show "Criminal Minds". This crime drama TV series is one where a team of FBI profilers from the BAU Analysis Unit solve criminal cases across the country.  
+This is the best of seasons 1-15 of the CBS show _Criminal Minds_. This crime drama TV series is one where a team of FBI profilers from the BAU Analysis Unit solve criminal cases across the country.  
 
 ### Favorite Moment from Season 7 Episode 1 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://youtu.be/0AFa-VNLl8Y](url)
 
-```markdown
-Syntax highlighted code block
+#### Favorite Seasons 
 
-# Header 1
-## Header 2
-### Header 3
+**Season 7** 
+![https://i.ytimg.com/vi/qEEYKxZeO-A/hqdefault.jpg](src)
 
-- Bulleted
-- List
+**Season 9**
+![https://lh3.googleusercontent.com/proxy/BsJ0kpiY09XZDuNiSwIjhs9MeCJlXVR45mcTSRIdD-qJoxQ6NzjDzQQLr6i0Z-AuqleaX-UQwlmgtgi_d8PR7TiRuWjpatixLP8PKorepZWzkOfRwiRiAhf6iY48NRQhDTV2X4HBQkRawayHBWQ](src)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -30,6 +21,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizzyhoang/criminalminds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
